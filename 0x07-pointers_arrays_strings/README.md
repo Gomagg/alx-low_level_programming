@@ -1,0 +1,1 @@
+#0x07 ALX_SE Even more pointers, arrays and strings
